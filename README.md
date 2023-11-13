@@ -23,9 +23,8 @@
 #### Entre em cantato como migo: Links abaixo 
 
 <div style="display: iline_block"></br>
-    <button src="https://wa.me/5573988228980?text=Oi+%21+Vim+pelo+link+do+seu+GitHub.+Quero+mais+informa%C3%A7%C3%B5es+sobre+o+seu+trabalhos">   
-    <img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</div>
+    <button src="https://wa.me/5573988228980?text=Oi+%21+Vim+pelo+link+do+seu+GitHub.+Quero+mais+informa%C3%A7%C3%B5es+sobre+o+seu+trabalhos">
 
 #### Transformando linhas de código em experiências digitais incríveis! 💻🚀
+### Autor Jeferson Souza
 
