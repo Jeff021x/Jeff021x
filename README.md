@@ -22,9 +22,9 @@
 
 #### Entre em cantato como migo: Links abaixo 
 
-<div style="display: iline_block"></br>
-    <button src="https://wa.me/5573988228980?text=Oi+%21+Vim+pelo+link+do+seu+GitHub.+Quero+mais+informa%C3%A7%C3%B5es+sobre+o+seu+trabalhos">
+<div style="display: flex"></br>
+    <h>Telefone : 73 9. 8822 - 8980 </br>E-mail : Jefersonsantos7623@gmail.com</h3>
+</div>
 
-#### Transformando linhas de código em experiências digitais incríveis! 💻🚀
-### Autor Jeferson Souza
+#### Transformando linhas de código em experiências digitais incríveis! 💻🚀 
 
