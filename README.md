@@ -23,7 +23,7 @@
 #### Entre em cantato como migo: Links abaixo 
 
 <div style="display: iline_block"></br>
-    <img align="center" alt="whatsapp" src="[https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://wa.me/5573988228980?text=Oi+%21+Vim+pelo+link+do+seu+Github.+Quero+mais+informa%C3%A7%C3%B5es+sobre+o+seus+trabalhos.)">
+    <img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://wa.me/5573988228980?text=Oi+%21+Vim+pelo+link+do+seu+Github.+Quero+mais+informa%C3%A7%C3%B5es+sobre+o+seus+trabalhos">
     <img align="center" alt="E-mail" src="https://jefersonsantos7623@gmail.com">
 </div>
 
