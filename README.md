@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jefferson_oficial.23/)
 [![Fecebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jeferson.santos.21764403/)
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff021x&show_icons=true&theme=dracula)
+![ Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff021x&show_icons=true&theme=dracula)
 
 ### Tecnologias que utilizo para os projetos 💻
 
@@ -16,7 +16,7 @@
 
 <div style="display: iline_block"></br>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="python" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
 
